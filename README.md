@@ -1,7 +1,4 @@
-<div align="center">
-  https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fskills&psig=AOvVaw3WEMRH6YjsWDsKLFzLsBkr&ust=1710212962369000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjOw_Kd64QDFQAAAAAdAAAAABAE
 ![Skills](https://github.com/TheOneGoodDeveloper/TheOneGoodDeveloper/assets/146941146/8ad4e5e4-4ad9-4fb2-b5ac-9f431bec5a45)
-</div>
 
 ###
 
