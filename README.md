@@ -27,7 +27,7 @@
 
 ###
 
-<p align="center">I'm Mohamed Fazil<br><br>- 📚 I'm currently learning Full Stack Web Development<br>- 🎯Goals : Mastering Full-stack web development</p>
+<p align="center">I'm Mohamed Fazil<br><br>- 📚 I'm currently learning The Complete 2024 Web Development Bootcamp <br>- 🎯Goals : Mastering Full-stack web development</p>
 
 ###
 
