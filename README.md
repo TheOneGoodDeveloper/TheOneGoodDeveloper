@@ -30,9 +30,9 @@
 <p align="center">I'm Mohamed Fazil<br><br>- 📚 I'm currently learning Web 3.0 <br>- 🎯Goals : blockchain developer</p>
 
 ###
-<p align="center">I'm Mohamed Fazil<br><br>- 📚 I'm currently learning The Complete 2024 Web Development Bootcamp <br>- 🎯Goals : Mastering Full-stack web development</p>
+<!-- <p align="center">I'm Mohamed Fazil<br><br>- 📚 I'm currently learning The Complete 2024 Web Development Bootcamp <br>- 🎯Goals : Mastering Full-stack web development</p>
 ###
-<h3 align="center">🛠 Interested to Learn</h3>
+<h3 align="center">🛠 Interested to Learn</h3> -->
 
 ###
 
