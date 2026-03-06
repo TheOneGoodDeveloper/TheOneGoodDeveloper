@@ -124,7 +124,7 @@ During my recent technical deep-dive (2024-2025), I architected a financial mana
 
 ### 📊 My Stats
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=TheOneGoodDeveloper&theme=vue&show_icons=true&count_private=true](https://github-readme-stats.vercel.app/api?username=TheOneGoodDeveloper&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)" />
+  <img class="m-2 select-none pointer-events-none" draggable="false" id="stats" src="https://github-readme-stats.vercel.app/api?username=TheOneGoodDeveloper&amp;theme=shadow_blue&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt="">
 </div>
 
 ---
