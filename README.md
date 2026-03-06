@@ -83,7 +83,7 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center"> -->
 <!--   <img src="https://streak-stats.demolab.com?user=TheOneGoodDeveloper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
   <!-- <img src = "https://github-readme-stats.vercel.app/api?username=TheOneGoodDeveloper&theme=vue&show_icons=true&hide_border=true&count_private=true"> 
 </div>
@@ -124,7 +124,7 @@ During my recent technical deep-dive (2024-2025), I architected a financial mana
 
 ### 📊 My Stats
 <div align="center">
-  <img class="m-2 select-none pointer-events-none" draggable="false" id="stats" src="https://github-readme-stats.vercel.app/api?username=TheOneGoodDeveloper&amp;theme=shadow_blue&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt="">
+  <img src="https://streak-stats.demolab.com?user=TheOneGoodDeveloper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ---
